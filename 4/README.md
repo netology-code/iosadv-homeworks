@@ -17,6 +17,7 @@
 
 ## Задача 3:
 Необходимо построить интерфейс входа в профиль страницы Profile приложения ВК с помощью SwiftUI:
+[Пример](https://github.com/netology-code/iosadv-homeworks/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-07-05%20at%2009.46.19.png).
 * поместить логотип VK 
 * создать поля для ввода email и password
 * добавить кнопку login
